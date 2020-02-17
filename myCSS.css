@@ -1,0 +1,32 @@
+body
+	{
+		background-image:url("/home/6CSE1/Downloads/bg2.jpg");
+		background-repeat:repeat;
+		background-attachment:fixed;
+	}
+	h1
+	{
+		color:maroon;
+		margin-left:40px;
+	}
+	p
+	{
+		background-color:white;
+		color:red;
+		font-style:italic;
+		font-family:georgia,garamond,serif;
+		font-size:large;
+		font-weight:600;
+		direction:rtl;
+		text-indent:20cm;
+		text-align:left;
+		
+	}
+	p.new
+	{
+		color:blue;
+		font-size:large;
+		font-weight:100;
+		direction:rtl;
+		text-align:left;
+	}
